@@ -1,0 +1,7 @@
+I have not pu README file in my repository, so, I am not cloaning the repository
+git init .
+git add remote origin https://github.com/vishwajt/220340126006.git
+git add .
+git commit -m "EXAM"
+git push
+- Now enter your username and password
